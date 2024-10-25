@@ -1,9 +1,9 @@
 body {
-  background-color: blueviolet;    
+  background-color: rgb(41, 18, 61);    
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 footer {
-  background-color: blue;
+  background-color: rgb(225, 0, 255);
   color :black;
   position :fixed;
   bottom: 0;
